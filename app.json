@@ -1,18 +1,44 @@
 {
-  "name": "MT-StylishText",
+  "name": "StylishText",
   "description": "Telegram bot helps to get Stylish Text. Create your Fork now.",
-  "keywords": [ "telegram", "best", "StylishText" ],
+  "keywords": [
+    "telegram",
+    "best",
+    "StylishText"
+  ],
   "logo": "https://telegra.ph/file/64a33f1fe14c0e26c39b1.jpg",
   "success_url": "https://www.youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
   "website": "https://www.youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
   "repository": "https://github.com/Mo-Tech-MRK-YT/Stylish-Text",
   "env": {
-    "WEBHOOK": { "description": "Setting this to ANYTHING will enable webhooks when in env mode", "value": "ANYTHING" },
-    "BOT_TOKEN": { "description": "Your bot token, as a string." },
-    "API_ID": { "description": "Get this value from https://my.telegram.org or @MT_Mytelegramorg_Bot" },
-    "OWNER_ID": { "description": "give your telegram user id here" },
-    "API_HASH": { "description": "Get this value from https://my.telegram.org or @MT_Mytelegramorg_Bot" } },
-  "addons": [ ], "buildpacks": [{ "url": "https://github.com/Mo-Tech-MRK-YT/HeroKu.Support"  }, { "url": "heroku/python" }],
+    "WEBHOOK": {
+      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
+      "value": "ANYTHING"
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot token, as a string.",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "give your telegram user id here",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
+      "value": ""
+    }
+  },
+  "addons": [
+  ],
+  "buildpacks": [{
+    "url": "https://github.com/Mo-Tech-MRK-YT/HeroKu.Support"
+  }, {
+    "url": "heroku/python"
+  }],
   "formation": {
     "worker": {
       "quantity": 1,
