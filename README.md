@@ -10,13 +10,13 @@ This is a telegram bot help you to get stylish fonts and text.
 </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Mo-Tech-MRK-YT/Stylish-Text/stargazers">
-    <img src="https://img.shields.io/github/stars/Mo-Tech-MRK-YT/Stylish-Text?style=social">
+  <a href="https://github.com/PR0FESS0R-99/Stylish-Text/stargazers">
+    <img src="https://img.shields.io/github/stars/PR0FESS0R-99/Stylish-Text?style=social">
 
   </a>
   
-  <a href="https://github.com/Mo-Tech-MRK-YT/Stylish-Text/fork">
-    <img src="https://img.shields.io/github/forks/Mo-Tech-MRK-YT/Stylish-Text?label=Fork&style=social">
+  <a href="https://github.com/PR0FESS0R-99/Stylish-Text/fork">
+    <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Stylish-Text?label=Fork&style=social">
 
   </a>  
 </p>
