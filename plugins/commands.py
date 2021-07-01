@@ -51,7 +51,7 @@ async def about(c, m):
 
 **📢 Language**: Python
 
-**⛓️ Source**: [Clcik Here](https://github.com/Mo-Tech-MRK-YT/Stylish-Text)
+**⛓️ Source**: [Clcik Here](https://github.com/PR0FESS0R-99/Stylish-Text)
 
 **🔊 Updates**: @Mo_Tech_YT
 
