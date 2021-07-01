@@ -9,7 +9,7 @@
   "logo": "https://telegra.ph/file/64a33f1fe14c0e26c39b1.jpg",
   "success_url": "https://www.youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
   "website": "https://www.youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-  "repository": "https://github.com/Mo-Tech-MRK-YT/Stylish-Text",
+  "repository": "https://github.com/PR0FESS0R-99/Stylish-Text",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -35,7 +35,7 @@
   "addons": [
   ],
   "buildpacks": [{
-    "url": "https://github.com/Mo-Tech-MRK-YT/HeroKu.Support"
+    "url": "https://github.com/PR0FESS0R-99/HeroKu.Support"
   }, {
     "url": "heroku/python"
   }],
